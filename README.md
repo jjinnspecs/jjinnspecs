@@ -1,4 +1,4 @@
-<h2 align="left">Hello there👋! My name is Jeric and I'm an aspiring Software Engineer from</h2>
+<h2 align="left">Hello there👋! My name is Jeric and I'm an aspiring Software Engineer from Philippines</h2>
 
 ###
 
