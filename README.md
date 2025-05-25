@@ -1,4 +1,4 @@
-<h2 align="left">Hello there👋! My name is Jeric and I'm a Software/ Web Developer</h2>
+<h2 align="left">SOFTWARE/ WEB DEVELOPER</h2>
 
 ###
 
