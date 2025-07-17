@@ -1,4 +1,4 @@
-Hi, I'm  , a Full-Stack Web Developer. Below are some of my featured projects.
+Hi, I'm a Full-Stack Web Developer. Below are some of my featured projects.
 
 ---
 
@@ -17,6 +17,7 @@ An end-to-end e-commerce web app built using the MERN stack. It includes product
 - Admin dashboard for managing users, products, and orders
 - Payment integration (dummy/PayMongo-ready)
 - Responsive design
+- Light/ Dark Mode
 
 **Technologies Used:**
   - MongoDB, Express.js, React, Node.js(MERN Stack)
@@ -26,15 +27,14 @@ An end-to-end e-commerce web app built using the MERN stack. It includes product
   - Paymongo API(for payment integration)
   - Render(for deployment)
     
-**Status:**  Private Repository – Code available upon request
+**Status:** Private Repository – Code available upon request
 ---
 
 ### Task Manager App
 
 A productivity tool for managing daily tasks, built with React and a backend API. Includes features like task filtering, persistent data, and responsive design.
 
-- **Live Demo:** [https://task-manager-git-main-jjinnspecs-projects.vercel.app/](https://task-manager-git-main-jjinnspecs-projects.vercel.app/)
-- **Status:** Private Repository – Code available upon request
+**Live Demo:** [https://task-manager-git-main-jjinnspecs-projects.vercel.app/](https://task-manager-git-main-jjinnspecs-projects.vercel.app/)
 
 **Features:**
 - Add, edit, complete, and delete tasks
@@ -43,14 +43,19 @@ A productivity tool for managing daily tasks, built with React and a backend API
 - Simple, clean UI with mobile responsiveness
 - Light and dark mode (optional if supported)
 
+**Technologies Used:**
+  - Javascript
+  - React
+  - TailwindCSS
+  - Vercel(for deployment)
+  
+**Status:** Private Repository – Code available upon request
 ---
 
-### 🚀 SpaceX Launches Explorer
+### SpaceX Launches Explorer
 
 A simple yet powerful app that fetches and displays real-time SpaceX launch data using the SpaceX API.
-
-- **Live Demo:** [https://spacexlaunchesjjinnspecs.onrender.com/](https://spacexlaunchesjjinnspecs.onrender.com/)
-- **Status:** 🔒 Private Repository – Code available upon request
+**Live Demo:** [https://spacexlaunchesjjinnspecs.onrender.com/](https://spacexlaunchesjjinnspecs.onrender.com/)
 
 **Features:**
 - Fetches real-time data from the SpaceX API
@@ -59,11 +64,18 @@ A simple yet powerful app that fetches and displays real-time SpaceX launch data
 - Detailed mission and rocket info
 - Clean UI with date-based filtering
 
+**Technologies Used:**
+- Javascript
+- React
+- Chakra UI v2
+- Render(for deployment)
+- SpaceX API
+**Status:** Private Repository – Code available upon request
 ---
 
-## 📩 Request Access
+## Request Access
 
-If you're interested in viewing the source code or learning more about any of these projects, feel free to [contact me](mailto:your.email@example.com) or open an issue in this repository.
+If you're interested in viewing the source code or learning more about any of these projects, feel free to [contact me](mailto:j3.cariaso@gmail.com).
 
 ---
 
