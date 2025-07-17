@@ -4,20 +4,20 @@ Hi, I'm a Full-Stack Web Developer. Below are some of my featured projects.
 
 ## 🔧 Personal Projects
 
-### Not Shopee — E-commerce App
+### 1. Not Shopee — E-commerce App
 
 An end-to-end e-commerce web app built using the MERN stack. It includes product browsing, user authentication, cart functionality, and admin controls for managing inventory.
 
 **Live Demo:** [https://mern-not-shopee.onrender.com/](https://mern-not-shopee.onrender.com/)
 
 **Features:**
-- User authentication and authorization (JWT)
-- Product listing with search & filters
-- Shopping cart with quantity control
-- Admin dashboard for managing users, products, and orders
-- Payment integration (dummy/PayMongo-ready)
-- Responsive design
-- Light/ Dark Mode
+  - User authentication and authorization (JWT)
+  - Product listing with search & filters
+  - Shopping cart with quantity control
+  - Admin dashboard for managing users, products, and orders
+  - Payment integration (dummy/PayMongo-ready)
+  - Responsive design
+  - Light/ Dark Mode
   
 **Technologies Used:**
   - MongoDB, Express.js, React, Node.js(MERN Stack)
@@ -31,18 +31,18 @@ An end-to-end e-commerce web app built using the MERN stack. It includes product
 
 ---
 
-### Task Manager App
+### 2. Task Manager App
 
 A productivity tool for managing daily tasks, built with React and a backend API. Includes features like task filtering, persistent data, and responsive design.
 
 **Live Demo:** [https://task-manager-git-main-jjinnspecs-projects.vercel.app/](https://task-manager-git-main-jjinnspecs-projects.vercel.app/)
 
 **Features:**
-- Add, edit, complete, and delete tasks
-- Persistent storage via backend API
-- Filter by task status (completed/pending)
-- Simple, clean UI with mobile responsiveness
-- Light and dark mode (optional if supported)
+  - Add, edit, complete, and delete tasks
+  - Persistent storage via backend API
+  - Filter by task status (completed/pending)
+  - Simple, clean UI with mobile responsiveness
+  - Light and dark mode (optional if supported)
   
 **Technologies Used:**
   - Javascript
@@ -54,26 +54,26 @@ A productivity tool for managing daily tasks, built with React and a backend API
 
 ---
 
-### SpaceX Launches Explorer
+### 3. SpaceX Launches Explorer
 
 A simple yet powerful app that fetches and displays real-time SpaceX launch data using the SpaceX API.
 
 **Live Demo:** [https://spacexlaunchesjjinnspecs.onrender.com/](https://spacexlaunchesjjinnspecs.onrender.com/)
 
 **Features:**
-- Fetches real-time data from the SpaceX API
-- Displays upcoming, past, and latest launches
-- Launch status indicators (Success, Failure, Upcoming)
-- Detailed mission and rocket info
-- Clean UI with date-based filtering
-- Light/ Dark Mode
+  - Fetches real-time data from the SpaceX API
+  - Displays upcoming, past, and latest launches
+  - Launch status indicators (Success, Failure, Upcoming)
+  - Detailed mission and rocket info
+  - Clean UI with date-based filtering
+  - Light/ Dark Mode
   
 **Technologies Used:**
-- Javascript
-- React
-- Chakra UI v2
-- Render(for deployment)
-- SpaceX API
+  - Javascript
+  - React
+  - Chakra UI v2
+  - Render(for deployment)
+  - SpaceX API
   
 **Status:** Private Repository – Code available upon request
 
@@ -83,7 +83,7 @@ A simple yet powerful app that fetches and displays real-time SpaceX launch data
 
 These projects were completed as part of technical assessments for hiring evaluations.
 
-### FB Marketplace Clone
+### 1. FB Marketplace Clone
 
 A functional clone of Facebook Marketplace, built using Supabase and Next.js. Users can create listings, browse items, and message sellers with real-time updates and email notifications.
 
@@ -107,7 +107,7 @@ A functional clone of Facebook Marketplace, built using Supabase and Next.js. Us
 
 ---
 
-### FB Wall (2008 Themed)
+### 2. FB Wall (2008 Themed)
 
 A nostalgic Facebook Wall clone inspired by the 2008 version. Users can post short messages and see a live-updating feed thanks to Supabase's real-time features.
 
@@ -130,7 +130,7 @@ A nostalgic Facebook Wall clone inspired by the 2008 version. Users can post sho
 
 ---
 
-### Personalized TicTacToe
+### 3. Personalized TicTacToe
 
 A custom-built TicTacToe game using a Pokémon retro theme. Designed as a front-end exercise with styled UI and classic turn-based interaction.
 
