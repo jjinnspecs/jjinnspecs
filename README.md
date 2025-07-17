@@ -51,6 +51,7 @@ A productivity tool for managing daily tasks, built with React and a backend API
   - Vercel(for deployment)
   
 **Status:** Private Repository – Code available upon request
+
 ---
 
 ### SpaceX Launches Explorer
@@ -72,6 +73,7 @@ A simple yet powerful app that fetches and displays real-time SpaceX launch data
 - Render(for deployment)
 - SpaceX API
 **Status:** Private Repository – Code available upon request
+  
 ---
 
 ## Request Access
