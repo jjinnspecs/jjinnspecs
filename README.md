@@ -28,6 +28,7 @@ An end-to-end e-commerce web app built using the MERN stack. It includes product
   - Render(for deployment)
     
 **Status:** Private Repository – Code available upon request
+
 ---
 
 ### Task Manager App
