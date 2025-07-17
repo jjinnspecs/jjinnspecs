@@ -65,6 +65,7 @@ A simple yet powerful app that fetches and displays real-time SpaceX launch data
 - Launch status indicators (Success, Failure, Upcoming)
 - Detailed mission and rocket info
 - Clean UI with date-based filtering
+- Light/ Dark Mode
 
 **Technologies Used:**
 - Javascript
