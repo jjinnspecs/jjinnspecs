@@ -48,7 +48,8 @@ A productivity tool for managing daily tasks, built with React and a backend API
   - Javascript
   - React
   - TailwindCSS
-  - Vercel(for deployment)
+  - Vercel(for frontend deployment)
+  - Render(for backend deployment)
 
 **Status:** Private Repository – Code available upon request
 
